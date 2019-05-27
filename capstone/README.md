@@ -10,7 +10,7 @@ Therefore, companies such as Facebook, news agencies and government agencies hav
 
 ## Dataset
 
-The dataset contains training, validation and test sets with labeled statements and meta-data related to the statements. There are 6 labels: pants on fire, false, barely true, half true, mostly true and true. I did not think that such granularity was necessary, hence I grouped the statements into 3 classes instead: false, half true and true. The meta-data includes information such as the speaker, context, party affiliation of the speaker etc. 
+The dataset contains training, validation and test sets with labeled statements from Politifact and meta-data related to the statements. There are 6 labels: pants on fire, false, barely true, half true, mostly true and true. I did not think that such granularity was necessary, hence I grouped the statements into 3 classes instead: false, half true and true. The meta-data includes information such as the speaker, context, party affiliation of the speaker etc. 
 
 ## Notebook workflow
 
